@@ -52,7 +52,7 @@ while (exibirMenu)
             break;
     }
 
-    Console.WriteLine("Pressione uma tecla para continuar");
+    Console.WriteLine("Pressione uma tecla para voltar ao menu");
     Console.ReadLine();
 }
 
